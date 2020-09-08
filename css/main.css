@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', cursive, Arial, sans-serif;
+    background-image: url(imagens/fundosite.jpg);
+
+}
+
+}
+.row {
+    margin: 15px;
+}
+.card {
+    position: relative;
+    margin: 20px;
+    padding: 10px;
+    width: 15px;
+    
+}
+.card-title {
+    color: blueviolet;
+}
+.zoom {
+    transition: transform .2s; 
+}
+.zoom:hover {
+    transform: scale(1.5); 
+}
+
+
+  
+  .footer {
+    background-color:blue;
+    height: 100px;
+    font-family: 'Open Sans', 'Helvetica', 'sans-serif';
+    font-style: normal;
+    color: white;
+    text-align: center;
+  }
+  
+ 
+  
+  
+
+
+
+
+
